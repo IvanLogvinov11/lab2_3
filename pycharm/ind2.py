@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -- coding: utf-8 --
 
-import math
+import sys
 
 if __name__ == '__main__':
     s = input().lower()
@@ -11,4 +11,8 @@ if __name__ == '__main__':
     if s1 == s:
         print('Ok')
     else:
-        print('Есть ошибки')
+        print(
+            'Есть ошибки',
+        file=sys.stderr
+        )
+

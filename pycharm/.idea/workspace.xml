@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdcc4c5-6f09-4d07-9e52-27c84ef1cb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ind4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ind1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ind1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ind2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ind2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ind3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ind3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ps">
+  <component name="RunManager" selected="Python.ind2">
     <configuration name="ind1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,9 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ind2" />
         <item itemvalue="Python.ps" />
         <item itemvalue="Python.ind3" />
-        <item itemvalue="Python.ind2" />
         <item itemvalue="Python.ind1" />
         <item itemvalue="Python.ind4" />
       </list>
